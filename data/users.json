@@ -1,0 +1,67 @@
+[
+  {
+    "id": "wb6tczi3",
+    "name": "System Admin",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$ibDYDEK/WADplb6to05Gr.a/dM6J19UMbvFG6XOU6yZReTFBy2xuG",
+    "role": "Admin",
+    "phone": "9999999999",
+    "status": "Active",
+    "createdAt": "2026-07-02T09:46:25.822Z"
+  },
+  {
+    "id": "nsyfbhra",
+    "name": "Dr. Prabhakar Rao (Principal)",
+    "email": "principal@gmail.com",
+    "password": "$2b$10$qUpFVTqjktE0PERBzOoCfeKicnzwotrG9YvzQFQZrnO3P.LzhKsC.",
+    "role": "Principal",
+    "phone": "8888888888",
+    "status": "Active",
+    "createdAt": "2026-07-02T09:46:25.824Z"
+  },
+  {
+    "id": "wzjpsva5",
+    "name": "Prof. Raghav (In-Charge)",
+    "email": "incharge@gmail.com",
+    "password": "$2b$10$GGjgDb2MQARr5ax3IwbOLeFNwneAezflM8BvOZkqlobKZ8YyvxD5u",
+    "role": "Incharge",
+    "phone": "7777777777",
+    "status": "Active",
+    "createdAt": "2026-07-02T09:46:25.826Z"
+  },
+  {
+    "id": "gx44lua6",
+    "name": "Dr. Anil Kumar",
+    "email": "faculty@gmail.com",
+    "password": "$2b$10$z.483pNYFyMHEVwgNHzbKurr45J9EkcxwJzEqxrAVreof.DTFg5He",
+    "role": "Faculty",
+    "phone": "9876543210",
+    "status": "Active",
+    "branch": "CSE",
+    "createdAt": "2026-07-02T09:46:25.827Z"
+  },
+  {
+    "id": "spnv7ifs",
+    "name": "Prof. Sneha Rao",
+    "email": "sneha@gmail.com",
+    "password": "$2b$10$4XqXEkvxgtBdyl4HI4tFrelRKKsLOp.4fIOHNkHYyQ2ENN2rtTBIW",
+    "role": "Faculty",
+    "phone": "9876543211",
+    "status": "Active",
+    "branch": "CSE",
+    "createdAt": "2026-07-02T09:46:25.829Z"
+  },
+  {
+    "id": "ut4nxlh7",
+    "name": "Akhil Reddy",
+    "email": "student@gmail.com",
+    "password": "$2b$10$VgBLnsSUywzWOH3DgCU1beqN4dbgRDm73PMM/WcmXQ.5KGFJhncza",
+    "role": "Student",
+    "phone": "9123456780",
+    "branch": "CSE",
+    "section": "A",
+    "semester": "3",
+    "status": "Active",
+    "createdAt": "2026-07-02T09:46:25.830Z"
+  }
+]

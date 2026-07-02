@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t4k7qxkk",
+    "subjectName": "Web Development",
+    "subjectCode": "CS301",
+    "branch": "CSE",
+    "semester": "3",
+    "faculty": "Dr. Anil Kumar",
+    "credits": 4,
+    "createdAt": "2026-07-02T09:46:25.850Z"
+  },
+  {
+    "id": "3ufh0pk6",
+    "subjectName": "Database Management Systems",
+    "subjectCode": "CS302",
+    "branch": "CSE",
+    "semester": "3",
+    "faculty": "Prof. Sneha Rao",
+    "credits": 3,
+    "createdAt": "2026-07-02T09:46:25.851Z"
+  },
+  {
+    "id": "gu5tddod",
+    "subjectName": "Artificial Intelligence Foundations",
+    "subjectCode": "AI201",
+    "branch": "AI",
+    "semester": "2",
+    "faculty": "Dr. Anil Kumar",
+    "credits": 4,
+    "createdAt": "2026-07-02T09:46:25.853Z"
+  }
+]

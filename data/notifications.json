@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rdwxw8mx",
+    "title": "Welcome to Timetable Management System",
+    "message": "Your account is activated and ready for use.",
+    "role": "All",
+    "userId": "All",
+    "read": false,
+    "createdAt": "2026-07-02T09:46:25.860Z"
+  },
+  {
+    "id": "haxxer4j",
+    "title": "Monday Timetable Released",
+    "message": "The timetable for CSE Sem 3 on Monday has been approved.",
+    "role": "Student",
+    "userId": "All",
+    "read": false,
+    "createdAt": "2026-07-02T09:46:25.861Z"
+  },
+  {
+    "id": "4gvvzrbl",
+    "title": "Timetable Approved!",
+    "message": "Timetable for CSE Sec A Sem 3 on Tuesday is APPROVED.",
+    "role": "Student",
+    "userId": "All",
+    "read": false,
+    "createdAt": "2026-07-02T09:55:33.464Z"
+  },
+  {
+    "id": "mwaynhct",
+    "title": "Your Teaching Slot Approved",
+    "message": "Your class for \"Web Development\" on Tuesday (09:00 AM - 10:30 AM) has been approved.",
+    "role": "Faculty",
+    "userId": "All",
+    "read": false,
+    "createdAt": "2026-07-02T09:55:33.465Z"
+  }
+]

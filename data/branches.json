@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2cz9tndm",
+    "branchName": "CSE",
+    "section": "A",
+    "semester": "3",
+    "academicYear": "2026-2027",
+    "createdAt": "2026-07-02T09:46:25.832Z"
+  },
+  {
+    "id": "xjrkgd9m",
+    "branchName": "AI",
+    "section": "A",
+    "semester": "2",
+    "academicYear": "2026-2027",
+    "createdAt": "2026-07-02T09:46:25.833Z"
+  },
+  {
+    "id": "ieib3rwy",
+    "branchName": "B.Com",
+    "section": "A",
+    "semester": "4",
+    "academicYear": "2026-2027",
+    "createdAt": "2026-07-02T09:46:25.835Z"
+  },
+  {
+    "id": "f4v6upc9",
+    "branchName": "DS",
+    "section": "A",
+    "semester": "5",
+    "academicYear": "2026-2027",
+    "createdAt": "2026-07-02T09:46:25.836Z"
+  },
+  {
+    "id": "1obluczn",
+    "branchName": "Bsc",
+    "section": "B",
+    "semester": "5",
+    "academicYear": "2026-2027",
+    "createdAt": "2026-07-02T09:51:37.258Z"
+  }
+]

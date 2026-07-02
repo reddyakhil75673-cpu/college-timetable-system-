@@ -1,0 +1,47 @@
+[
+  {
+    "id": "4cpn2b3m",
+    "roomNumber": "101",
+    "roomType": "Classroom",
+    "capacity": 60,
+    "block": "Block A",
+    "availability": "Available",
+    "createdAt": "2026-07-02T09:46:25.838Z"
+  },
+  {
+    "id": "9vtcqu0x",
+    "roomNumber": "203",
+    "roomType": "Classroom",
+    "capacity": 50,
+    "block": "Block B",
+    "availability": "Available",
+    "createdAt": "2026-07-02T09:46:25.839Z"
+  },
+  {
+    "id": "a3x5kt8z",
+    "roomNumber": "Lab 1",
+    "roomType": "Computer Lab",
+    "capacity": 40,
+    "block": "Tech Center",
+    "availability": "Available",
+    "createdAt": "2026-07-02T09:46:25.841Z"
+  },
+  {
+    "id": "6a0yface",
+    "roomNumber": "Lab 2",
+    "roomType": "Computer Lab",
+    "capacity": 40,
+    "block": "Tech Center",
+    "availability": "Available",
+    "createdAt": "2026-07-02T09:46:25.842Z"
+  },
+  {
+    "id": "l0ghqgfb",
+    "roomNumber": "Seminar Hall",
+    "roomType": "Seminar Hall",
+    "capacity": 120,
+    "block": "Block A",
+    "availability": "Available",
+    "createdAt": "2026-07-02T09:46:25.844Z"
+  }
+]

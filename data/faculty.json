@@ -1,0 +1,24 @@
+[
+  {
+    "id": "gjbpkaa9",
+    "name": "Dr. Anil Kumar",
+    "email": "faculty@gmail.com",
+    "phone": "9876543210",
+    "department": "Computer Science",
+    "qualification": "Ph.D in AI & ML",
+    "experience": "12 Years",
+    "subject": "Web Development",
+    "createdAt": "2026-07-02T09:46:25.846Z"
+  },
+  {
+    "id": "enqwqaiv",
+    "name": "Prof. Sneha Rao",
+    "email": "sneha@gmail.com",
+    "phone": "9876543211",
+    "department": "Computer Science",
+    "qualification": "M.Tech",
+    "experience": "8 Years",
+    "subject": "Database Management Systems",
+    "createdAt": "2026-07-02T09:46:25.848Z"
+  }
+]

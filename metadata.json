@@ -1,0 +1,6 @@
+{
+  "name": "College Timetable & Academic Management System",
+  "description": "A fully functional MERN-style web application for managing academic timetables, branches, subjects, rooms, faculty workload, and approvals with multi-language and PDF report support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
